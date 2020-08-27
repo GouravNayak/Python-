@@ -1,1 +1,3 @@
-Python basics on how to calculate Greatest Common Divisor, Least Common Multiple, Print left justified tree of numbers, sum of first and last digit of number, to find power of a number, prime number, create dictionary of users with email and password and verify them.
+This repository contains work on my python programming skills that I have gathered from request on LinkedIN as a mentor for students and helped people on their projects to fill the gap in knowledge or just lending them a heloing hand while honing my skills.
+
+I love to help and learn !!! :)
